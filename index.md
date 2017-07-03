@@ -98,12 +98,10 @@ end
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
-![](https://github.com/HelloBeastie/HelloBeastie.github.io/blob/master/_includes/EskomLogo.svg)
-<img src="_includes/EskomLogo.svg" />
+{% _includes/EskomLogo.svg %}
 
-\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
-
+#Include MathJax
+#\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 ### Definition lists can be used with HTML syntax.
 
