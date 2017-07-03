@@ -99,6 +99,9 @@ end
 ### Large image
 
 ![](https://guides.github.com/activities/hello-world/branching.png)
+<img src="_includes/EskomLogo.svg" />
+
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
 
 ### Definition lists can be used with HTML syntax.
