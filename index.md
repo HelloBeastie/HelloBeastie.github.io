@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-{% _includes/EskomLogo.svg %}
+{% EskomLogo.svg %}
 
 #Include MathJax
 #\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
