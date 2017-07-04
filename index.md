@@ -107,6 +107,9 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
 \end{equation}
 $$
 
+$\frac{a}{b}$
+$$\frac{a}{b}$$
+
 ### KaTeX
 {% latex centred %} E = mc^2 {% endlatex %}
 {% latex %} E = mc^2 {% endlatex %}
