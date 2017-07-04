@@ -101,9 +101,11 @@ end
 {% include EskomLogo.svg %}
 
 #Include MathJax
-$$\begin{equation}
+$$
+\begin{equation}
 x = {-b \pm \sqrt{b^2-4ac} \over 2a}
-\end{equation}$$
+\end{equation}
+$$
 
 ### Definition lists can be used with HTML syntax.
 
