@@ -101,7 +101,9 @@ end
 {% include EskomLogo.svg %}
 
 #Include MathJax
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+$$\begin{equation}
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}
+\end{equation}$$
 
 ### Definition lists can be used with HTML syntax.
 
