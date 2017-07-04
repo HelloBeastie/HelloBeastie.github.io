@@ -1,5 +1,10 @@
 title: Extra Lessons in Alberton
-description: A clean, responsive theme for information on your local tutor.
+email: riki.lee2@gmail.com
+description: A clean, secure and responsive website for information on your local tutor!
 show_downloads: false
 google_analytics:
-theme: 
+theme:
+twitter_username:
+github_username:
+# Build settings
+markdown: kramdown
