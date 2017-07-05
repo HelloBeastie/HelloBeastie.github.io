@@ -102,22 +102,13 @@ end
 {% include Maths.svg %}
 
 ### MathJax
-$$
-\begin{equation}
+$$\begin{equation}
 x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
-\end{equation}
-$$
+\end{equation}$$
 
-\begin{equation}
-x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
-\end{equation}
+Where $V$ means something specific in statistics. Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation.
 
-$\frac{a}{b}$
-$$\frac{a}{b}$$
-
-\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
-
-\\( ax^2 + \sqrt{bx} + c = 0 \\)
+$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2\frac{\partial^2 V}{\partial S^2} + rS\frac{\partial V}{\partial S} - rV = 0$$
 
 ### Definition lists can be used with HTML syntax.
 
