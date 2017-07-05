@@ -2,6 +2,10 @@
 layout: default
 ---
 
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
@@ -114,6 +118,10 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
 
 $\frac{a}{b}$
 $$\frac{a}{b}$$
+
+\\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
+
+\\( ax^2 + \sqrt{bx} + c = 0 \\)
 
 ### Definition lists can be used with HTML syntax.
 
