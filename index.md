@@ -2,10 +2,6 @@
 layout: default
 ---
 
-    <script type="text/javascript" async
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
-    </script>
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
@@ -102,7 +98,8 @@ end
 
 ### Large image
 
-{% include EskomLogo.svg %}
+{% include Bio.svg %}
+{% include Maths.svg %}
 
 ### MathJax
 $$
