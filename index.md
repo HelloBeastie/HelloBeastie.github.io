@@ -96,19 +96,50 @@ end
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Large Bio image
 
 {% include Bio.svg %}
+
+
+### Large Maths image
+
 {% include Maths.svg %}
 
 ### MathJax
-$$\begin{equation}
-x = \frac{-b \pm \sqrt{b^2 - 4ac}{2a}
-\end{equation}$$
 
 Where $V$ means something specific in statistics. Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation.
 
 $$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2\frac{\partial^2 V}{\partial S^2} + rS\frac{\partial V}{\partial S} - rV = 0$$
+
+In equation \eqref{eq:sample}, we find the value of an
+interesting integral:
+
+\begin{equation}
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+  \label{eq:sample}
+\end{equation}
+
+or maybe
+
+In equation \eqref{eq:sample}, we find the value of an
+interesting integral:
+
+\\begin{equation}
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+  \label{eq:sample}
+\\end{equation}
+
+or maybe
+
+In equation \eqref{eq:sample}, we find the value of an
+interesting integral:
+
+$$
+\\begin{equation}
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+  \label{eq:sample}
+\\end{equation}
+$$
 
 ### Definition lists can be used with HTML syntax.
 
