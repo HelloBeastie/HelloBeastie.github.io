@@ -111,35 +111,14 @@ Where $V$ means something specific in statistics. Using a change of variables th
 
 $$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2\frac{\partial^2 V}{\partial S^2} + rS\frac{\partial V}{\partial S} - rV = 0$$
 
-In equation \eqref{eq:sample}, we find the value of an
+In equation \eqref{eq:IntegralSample}, we find the value of an
 interesting integral:
 
 \begin{equation}
+  \label{eq:IntegralSample}
   \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
   \label{eq:sample}
 \end{equation}
-
-or maybe
-
-In equation \eqref{eq:sample}, we find the value of an
-interesting integral:
-
-\\begin{equation}
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-  \label{eq:sample}
-\\end{equation}
-
-or maybe
-
-In equation \eqref{eq:sample}, we find the value of an
-interesting integral:
-
-$$
-\\begin{equation}
-  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
-  \label{eq:sample}
-\\end{equation}
-$$
 
 ### Definition lists can be used with HTML syntax.
 
