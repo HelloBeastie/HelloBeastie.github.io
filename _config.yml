@@ -6,6 +6,4 @@ google_analytics:
 theme:
 twitter_username:
 github_username:
-# Build settings
 markdown: kramdown
-usemathjax: true
