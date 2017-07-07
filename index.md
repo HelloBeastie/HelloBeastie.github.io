@@ -107,13 +107,16 @@ end
 
 ### MathJax
 
-Where $V$ means something specific in statistics. Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation.
+Where $V$ in \eqref{eq:Black-Scholes} means something specific in statistics. Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation.
 
 $$
+\begin{equation}
+  \label{eq:Black-Scholes}
   \frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2\frac{\partial^2 V}{\partial S^2} + rS\frac{\partial V}{\partial S} - rV = 0
+\end{equation}
 $$
 
-In equation e\eqref{eq:IntegralSample}, we find the value of an
+In equation \eqref{eq:IntegralSample}, we find the value of an
 interesting integral:
 
 $$
