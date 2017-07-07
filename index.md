@@ -104,6 +104,8 @@ end
 ### Large Maths image
 
 {% include Maths.svg %}
+<figure><img src="_includes/Maths.svg"></figure>
+<img src="_includes/Maths.svg">
 
 ### MathJax
 
