@@ -104,15 +104,17 @@ end
 ### Large Maths image
 
 {% include Maths.svg %}
-<figure><img src="_includes/Maths.svg"></figure>
-<img src="_includes/Maths.svg">
+<figure><img src="/_includes/Maths.svg"></figure>
+<img src="/_includes/Maths.svg">
 ![](<img src="_includes/Maths.svg">)
-![](src="_includes/Maths.svg")
+![](src="/_includes/Maths.svg")
 ![](include Maths.svg)
 
-An inline image: ![Maths](includes Maths.svg){:height="36px" width="36px"}
+An inline image: ![Maths](/_includes/Maths.svg){:height="36px" width="36px"}
 
 And here is a referenced ![Maths]
+
+![image-title-here](/_includes/Maths.svg){:class="img-responsive"}
 
 
 ### MathJax
