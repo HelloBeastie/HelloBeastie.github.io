@@ -138,8 +138,9 @@ $$
 \end{equation}
 $$
 
-###LaTeX in Markdown Attempted
-$$\usetikzlibrary{decorations.pathmorphing}
+### LaTeX in Markdown Attempted
+$$
+\usetikzlibrary{decorations.pathmorphing}
 \begin{tikzpicture}[line width=0.2mm,scale=1.0545]\small
 \tikzset{>=stealth}
 \tikzset{snake it/.style={->,semithick,
@@ -165,11 +166,13 @@ decoration={snake,amplitude=.3mm,segment length=2.5mm,post length=0.9mm},decorat
 \draw[snake it](D)--(B2);
 \draw[thin](\r,0) arc (0:atan2(\p,\w):\r) node[midway,right,yshift=0.06cm] {$\theta$};
 \draw[opacity=0](-0.40,-0.14)-- ++(0,5.06);
-\end{tikzpicture}$$
+\end{tikzpicture}
+$$
 
 plots:
 
-$$\begin{tikzpicture}[scale=1.0544]\small
+$$
+\begin{tikzpicture}[scale=1.0544]\small
 \begin{axis}[axis line style=gray,
 	samples=120,
 	width=9.0cm,height=6.4cm,
@@ -188,7 +191,8 @@ $$\begin{tikzpicture}[scale=1.0544]\small
 \addplot[red] coordinates {(-1,0.6)} node{$y=e^x$};
 \path (axis cs:0,0) node [anchor=north west,yshift=-0.07cm] {0};
 \end{axis}
-\end{tikzpicture}$$
+\end{tikzpicture}
+$$
 
 ### Definition lists can be used with HTML syntax.
 
