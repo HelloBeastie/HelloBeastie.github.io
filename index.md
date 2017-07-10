@@ -98,25 +98,21 @@ end
 
 ### Large Bio image
 
-Image stored locally
-{% include Bio.svg %}
+#Image stored locally
+#{% include Bio.svg %}
 
 Image stored on rawgit
 ![Bio](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg){:class="img-responsive"}
 <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg">
 
-And here is a referenced ![Bio]
-
 ### Large Maths image
 
-Image stored locally
-{% include Maths.svg %}
+#Image stored locally
+#{% include Maths.svg %}
 
 Image stored on rawgit
-![Maths](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg)
+![Maths](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg){:class="img-responsive"}
 <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg">
-
-And here is a referenced ![Maths]
 
 ### MathJax
 
