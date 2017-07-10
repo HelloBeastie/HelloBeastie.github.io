@@ -92,27 +92,25 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
 ### Large Bio image
 
-#Image stored locally
-#{% include Bio.svg %}
-
-Image stored on rawgit
-![Bio](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg){:class="img-responsive"}
+{::comment}
 <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg">
+{% include Bio.svg %}
+{:/comment}
+
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg){:class="img-responsive"}
+*Figure showing codons*
 
 ### Large Maths image
 
-#Image stored locally
-#{% include Maths.svg %}
-
-Image stored on rawgit
-![Maths](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg){:class="img-responsive"}
+{::comment}
 <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg">
+{% include Maths.svg %}
+{:/comment}
+
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg){:class="img-responsive"}
+*Figure showing cartesion plan with polar coordinates*
 
 ### MathJax
 
