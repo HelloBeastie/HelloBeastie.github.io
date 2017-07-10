@@ -117,6 +117,14 @@ And here is a referenced ![Maths]
 ![image-title-here](/_includes/Maths.svg){:class="img-responsive"}
 
 
+
+
+
+![Alt text](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg)
+<img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg">
+![Alt text](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg)
+<img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg">
+
 ### MathJax
 
 Where $V$ in \eqref{eq:Black-Scholes} means something specific in statistics. Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation.
