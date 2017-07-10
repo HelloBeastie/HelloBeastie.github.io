@@ -100,6 +100,7 @@ end
 {:/comment}
 
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg){:class="img-responsive"}
+
 *Figure showing codons*
 
 ### Large Maths image
@@ -110,6 +111,7 @@ end
 {:/comment}
 
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg){:class="img-responsive"}
+
 *Figure showing cartesion plan with polar coordinates*
 
 ### MathJax
