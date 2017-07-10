@@ -3,6 +3,6 @@ email: riki.lee2@gmail.com
 description: A clean, secure and responsive website for information on your local tutor
 show_downloads: false
 google_analytics:
-theme:
 twitter_username:
 github_username:
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/29/Mandelbrot_Leminiscates_1_coords.png")
