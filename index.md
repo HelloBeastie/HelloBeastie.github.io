@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/29/Mandelbrot_Leminiscates_1_coords.png")
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 

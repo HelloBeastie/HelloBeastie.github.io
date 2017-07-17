@@ -1,5 +1,5 @@
 current directory: /home/peter/Documents/caymantheme/vendor/bundle/ruby/2.4.0/gems/ffi-1.9.18/ext/ffi_c
-/usr/bin/ruby2.4 -r ./siteconf20170705-5675-sb629h.rb extconf.rb
+/usr/bin/ruby2.4 -r ./siteconf20170717-3340-1chr1fi.rb extconf.rb
 *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary
 libraries and/or headers.  Check the mkmf.log file for more details.  You may
