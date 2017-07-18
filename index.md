@@ -5,6 +5,10 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
+[Link to another page 1](about).
+[Link to another page 2](services).
+[Link to another page 3](available-subjects).
+[Link to another page 4](contact-us).
 
 There should be whitespace between paragraphs.
 
