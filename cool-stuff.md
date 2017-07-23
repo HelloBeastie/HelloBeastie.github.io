@@ -64,5 +64,9 @@ $$
 \end{equation}
 $$
 
+{::comment}
+Should have a section with articles or posts wherein one can comment perhaps? Then a some items with links to the articles or tutorials on this page
+{:/comment}
+
 * * *
 [back](./)

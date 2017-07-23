@@ -11,6 +11,10 @@ layout: default
 | ok           | good `oreos`      | hmm             | nice               |
 | ok           | good `zoute` drop | yumm            | nice               |
 
+{::comment}
+A section with a TeX generated table with all the available slots will be placed here
+{:/comment}
+
 * * *
 [back](./)
 
