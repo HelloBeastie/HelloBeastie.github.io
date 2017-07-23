@@ -4,11 +4,20 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
-[Link to another page 1](about).
-[Link to another page 2](services).
-[Link to another page 3](available-subjects).
-[Link to another page 4](contact-us).
+### Navigation
+
+<dl>
+<dt>[About](about)</dt>
+<dd>Godzilla</dd>
+<dt>[Services](services)</dt>
+<dd>1952</dd>
+<dt>[Available Subjects](available-subjects)</dt>
+<dd>Japan</dd>
+<dt>[Contact Us](contact-us)</dt>
+<dd>Green</dd>
+<dt>[Cool Stuff](cool-stuff)</dt>
+<dd>Green</dd>
+</dl>
 
 There should be whitespace between paragraphs.
 
@@ -98,21 +107,17 @@ end
 
 ### Large Bio image
 
-{::comment}
-<img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg">
-{% include Bio.svg %}
-{:/comment}
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Languages.jpg)
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg){:class="img-responsive"}
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg)
 
 *Figure showing codons*
 
 ### Large Maths image
-
-{::comment}
-<img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg">
-{% include Maths.svg %}
-{:/comment}
 
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg){:class="img-responsive"}
 
