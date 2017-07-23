@@ -2,9 +2,14 @@
 layout: default
 ---
 
-## Welcome to another page
+# [](#Available Subjects)Available Subjects
 
-_yay_this will have a listing environment
+| Subject      | Level             | Cost ($h^{-1}$) | Times              |
+|:-------------|:------------------|:----------------|:-------------------|
+| ok           | good swedish fish | nice            | nice               |
+| out of stock | good and plenty   | nice            | nice               |
+| ok           | good `oreos`      | hmm             | nice               |
+| ok           | good `zoute` drop | yumm            | nice               |
 
 [back](./)
 
