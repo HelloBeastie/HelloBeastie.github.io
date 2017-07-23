@@ -6,18 +6,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Navigation
 
-<dl>
-<dt>[About](about)</dt>
-<dd>Godzilla</dd>
-<dt>[Services](services)</dt>
-<dd>1952</dd>
-<dt>[Available Subjects](available-subjects)</dt>
-<dd>Japan</dd>
-<dt>[Contact Us](contact-us)</dt>
-<dd>Green</dd>
-<dt>[Cool Stuff](cool-stuff)</dt>
-<dd>Green</dd>
-</dl>
+* [About](about)
+* [Services](services)
+* [Available Subjects](available-subjects)
+* [Contact Us](contact-us)
+* [Cool Stuff](cool-stuff)
 
 There should be whitespace between paragraphs.
 
@@ -119,7 +112,7 @@ end
 
 ### Large Maths image
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg){:class="img-responsive"}
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg)
 
 *Figure showing cartesion plan with polar coordinates*
 
