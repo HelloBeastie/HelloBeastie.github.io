@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## Welcome to another page
+# [](#Contact Us)Contact Us
 
 Contact us and heres my gitpage twitter etc etc
 
+* * *
 [back](./)
