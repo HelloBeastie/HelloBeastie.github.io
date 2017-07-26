@@ -41,4 +41,4 @@ The final element.
 ```
 {::comment}
 logo with a motto
-{:/comment}
+{::comment}
