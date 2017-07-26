@@ -9,7 +9,6 @@ layout: default
 * [Available Subjects](available-subjects)
 * [Contact Us](contact-us)
 * [Cool Stuff](cool-stuff)
-* [Sample](sample)
 
 * * *
 ## [](#Paragraphs)Paragraphs
