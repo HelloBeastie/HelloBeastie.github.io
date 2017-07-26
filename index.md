@@ -9,6 +9,7 @@ layout: default
 * [Available Subjects](available-subjects)
 * [Contact Us](contact-us)
 * [Cool Stuff](cool-stuff)
+* [Sample](sample)
 
 * * *
 ## [](#Paragraphs)Paragraphs
@@ -41,4 +42,4 @@ The final element.
 ```
 {::comment}
 logo with a motto
-{::comment}
+{:/comment}
