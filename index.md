@@ -13,19 +13,32 @@ layout: default
 * * *
 ## [](#Paragraphs)Paragraphs
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. Text can be **bold**, _italic_, or ~~strikethrough~~.
+See our other pages in #Navigation for constantly updated information (~~with the old information for reference~~) on our available times as well as our tutors and subjects we offer.
+Our services may change based on _your_ feedback. We value **knowledge** and **understanding** and it is our goal to make our insights _your own_.
 
 * * *
-# [](#Examples Images)Example Images
-
+## [](#Physics)Physics
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
+
+* * *
+## [](#Mathematics)Mathematics
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
+
+* * *
+## [](#Chemistry)Chemistry
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
+
+* * *
+## [](#Biology)Biology
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
+
+* * *
+## [](#Languages)Languages
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Languages.jpg)
 
 ```
 The final element.
 ```
+{::comment}
+logo with a motto
+{::comment}
