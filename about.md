@@ -15,15 +15,15 @@ ordinarily not available. We provide higher quality tuition at lower prices at h
 ## [](#Your Tutors)Your Tutors
 
 Riki-Lee Demetriou
-:  BSc Microbiology & Genetics
-:  Experience in Fungi analysis for fundemental research at University of Pretoria
-:  Full time tutor
+: BSc Microbiology & Genetics
+: Experience in Fungi analysis for fundemental research at University of Pretoria
+: Full time tutor
 Peter Demetriou
-:  BSc Electrical & Information Engineering
-:  Research engineer at Eskom Research and Innovation Center
+: BSc Electrical & Information Engineering
+: Research engineer at Eskom Research and Innovation Center
 Quinton Avis
-:  BSc Microbiology & Intermediate Life Support
-:  Currently a third year medicine student at the University of the Witwatersrand
+: BSc Microbiology & Intermediate Life Support
+: Currently a third year medicine student at the University of the Witwatersrand
 
 * * *
 ## [](#Why Us?)Why Us?
