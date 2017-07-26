@@ -13,7 +13,7 @@ layout: default
 * * *
 ## [](#Paragraphs)Paragraphs
 
-See our other pages in [Navigation](#Navigation) for constantly updated information (~~with the old information for reference~~) on our available times as well as our tutors and subjects we offer.
+See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times as well as our tutors and subjects we offer.
 Our services may change based on _your_ feedback. We value **knowledge** and **understanding** and it is our goal to make our insights _your own_.
 
 * * *
