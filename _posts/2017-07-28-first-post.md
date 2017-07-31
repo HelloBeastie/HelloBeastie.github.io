@@ -2,7 +2,7 @@
 layout: default
 title: My First Post
 subtitle: How to Post
-date: 2017-97-28
+date: 2017-07-28
 author: Peter Demetriou
 categories: Misc
 tags: Random
