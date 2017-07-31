@@ -11,6 +11,10 @@ layout: default
 * [Cool Stuff](cool-stuff)
 
 * * *
+# [](#Blogs)Blogs
+[2017-07-28-first-post](_posts/2017-07-28-first-post)
+
+* * *
 ## [](#Paragraphs)Paragraphs
 
 See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times as well as our tutors and subjects we offer.
