@@ -12,7 +12,14 @@ layout: default
 
 * * *
 # [](#Blogs)Blogs
-[2017-07-28-first-post](_posts/2017-07-28-first-post)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 * * *
 ## [](#Paragraphs)Paragraphs
