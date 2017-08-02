@@ -11,6 +11,17 @@ layout: default
 * [Cool Stuff](cool-stuff)
 
 * * *
+# [](#Blogs)Blogs
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+* * *
 ## [](#Paragraphs)Paragraphs
 
 See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times as well as our tutors and subjects we offer.
