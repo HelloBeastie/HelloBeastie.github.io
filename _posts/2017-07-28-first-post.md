@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "First Post"
-subtitle: "How to Post"
 date: 2017-07-28
 author: Peter Demetriou
 categories: Posting
