@@ -17,14 +17,9 @@ layout: default
    {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-          
-      <!--author-->  
-      {{_by_ post.author _on_ post.date }}
-      
-      <!--excerpt-->
-      {{ post.excerpt }}
-
     </li>
+      {{_by_ post.author _on_ post.date }}
+      {{ post.excerpt }}
   {% endfor %}
 </ul>
 

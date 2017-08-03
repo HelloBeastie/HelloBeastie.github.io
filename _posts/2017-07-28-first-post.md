@@ -6,10 +6,7 @@ date: 2017-07-28  16:16:01 -0001
 author: Peter Demetriou
 categories: Posting
 tags: How to Post
-id:
 excerpt: "To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter."
-permalink:
-featured_image:
 author_separator: <!--author-->
 excerpt_separator: <!--excerpt-->
 ---
