@@ -13,10 +13,10 @@ layout: default
 * * *
 # [](#Blogs)Blogs
 
--<ul>
-  {% for post in site.posts %}
-  
-      [post.title](post.url)
+<ul>
+   {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       
       {{ post.subtitle }}
       
@@ -25,9 +25,10 @@ layout: default
       {{ post.date }}
       
       {{ post.author }}
-  
+
+    </li>
   {% endfor %}
--<ul>
+</ul>
 
 * * *
 ## [](#Paragraphs)Paragraphs
