@@ -3,8 +3,8 @@ show_downloads: false
 google_analytics:
 title: Extra Lessons in Alberton
 email: riki.lee2@gmail.com
-twitter_username: Riki-Lee
-github_username: Peter
+twitter_username: Tikke-Tikke
+github_username: HelloBeastie
 gems:
    - jekyll-mentions
    - jemoji
