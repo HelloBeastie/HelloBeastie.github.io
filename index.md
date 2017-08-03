@@ -20,10 +20,8 @@ layout: default
       <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h3>
-      <h5>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a>
-      </h5>
       {{ post.excerpt }}
+      {{ post.author }}
     </li>
   {% endfor %}
 </ul>
