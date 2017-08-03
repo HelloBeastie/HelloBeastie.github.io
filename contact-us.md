@@ -6,8 +6,8 @@ layout: default
 
 Contact us and heres my gitpage twitter etc etc
 
-* You can find the source code for the Jekyll new theme at: {:.Tiny}[{% include icon-github.svg %}](https://github.com/HelloBeastie).
-* You can find our twitter account at: {:.Tiny}[{% include icon-twitter.svg %}](https://twitter.com/rikileehartwell).
+* You can find the source code for the Jekyll new theme at: [{% include icon-github.svg %}{:.Tiny}](https://github.com/HelloBeastie).
+* You can find our twitter account at: [{% include icon-twitter.svg %}](https://twitter.com/rikileehartwell){:.Tiny}.
 
 
 
