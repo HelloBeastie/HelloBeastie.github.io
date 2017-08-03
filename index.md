@@ -13,24 +13,17 @@ layout: default
 * * *
 # [](#Blogs)Blogs
 
-<ul>
-   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-      {{post.author}} {{post.date }}
-      {{ post.excerpt }}
-  {% endfor %}
-</ul>
-
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-      <h2>
+      <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
+      </h3>
+      <h5>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.subtitle }}</a>
+      </h5>
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
