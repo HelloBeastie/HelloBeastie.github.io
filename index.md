@@ -13,19 +13,21 @@ layout: default
 * * *
 # [](#Blogs)Blogs
 
-{% for post in site.posts %}
-
-    [post.title](post.url)
-    
-    {{ post.subtitle }}
-    
-    {{ post.excerpt }}
-    
-    {{ post.date }}
-    
-    {{ post.author }}
-
-{% endfor %}
+-<ul>
+  {% for post in site.posts %}
+  
+      [post.title](post.url)
+      
+      {{ post.subtitle }}
+      
+      {{ post.excerpt }}
+      
+      {{ post.date }}
+      
+      {{ post.author }}
+  
+  {% endfor %}
+-<ul>
 
 * * *
 ## [](#Paragraphs)Paragraphs
