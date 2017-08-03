@@ -1,0 +1,63 @@
+BASICS
+
+Working directory -> Staging Area -> Repository
+git init (initialise git repository)
+git status (shows which files are being tracked or not tracked)
+git reset HEAD <filename> (unstages adds)
+git diff <filename> (q TO EXIT diff MODE, differences between working directory and staging area)
+git log (q TO EXIT mode, view commits in repository, date, time, author, commit message, Identifier)
+
+PLAYING WITH HISTORY
+
+The commit you are currently on the HEAD commit
+git show HEAD (does git log and git diff but only for HEAD)
+git checkout HEAD <filename> (restore file in your working directory to most recent commit USE BEFORE STAGING)
+git reset HEAD <filename> (Unstages file from staging area USE WHEN YOU ADD MISTAKES TO STAGING AREA)
+git reset SHA (First 7 characters of SHA and we can rewind our desitny to the previous commit, HEAD is now previous commit and in git log the commits after the rewind into history are floating in limbo)
+
+BRANCHING
+
+git branch (lists branches and shows what you are on)
+git branch <new_branch> (makes a new branch)
+git checkout branch_name (switch to branch)
+git merge branch_name (add all changes in branch_name to master, switch to where you want to merge first
+Git fast forwards master to be up to date with branch_name, if there is a conflict in branches it will ask which version to keep in the merge)
+git branch -d branch_name (deletes uneeded branch)
+
+COLLABORATION
+
+A remote is a shared Git repository that allows multiple collaborators to work on the same Git project from different locations.
+git clone remote_location clone_name (to clone a project in remote_location repository to a directory clone_name)
+(NB when you clone the remote address is given the name origin)
+git remote -v (lists the remotes i.e., the "origins" of what is IN YOUR repository)
+git fetch (not merging but brings changes from remote into the local repository on a remote branch)
+git merge origin/master (merges the origin master branch with your branch)
+git pull (seems to do fetch and merge in one shot)
+git push origin your_branch_name (pushes branch up to remote origin)
+
+WORKFLOW
+
+1. Fetch and merge changes from the remote (pull)
+2. Create a branch to work on a new project feature
+3. Develop the feature on your branch and commit your work
+4. Fetch and merge from the remote again (in case new commits were made while you were working)
+5. Push your branch up to the remote for review
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
