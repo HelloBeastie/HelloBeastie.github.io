@@ -10,7 +10,7 @@ You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="HelloBeastie" %}
 
 You can find the source code for Jekyll at
-{% include icon-github.html username="Tikke-Tikke" %}
+{% include icon-twitter.html username="Tikke-Tikke" %}
 
 {::comment}
 Find out how to get the feed that the minima page has with the icons for facebook and we should also have a list of other places where they can find us
