@@ -18,7 +18,7 @@ layout: default
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-      {{_by_ post.author _on_ post.date }}
+      by {{post.author}} on {{post.date }}
       {{ post.excerpt }}
   {% endfor %}
 </ul>
