@@ -19,5 +19,3 @@ You can email us on <a href="mailto:{{ site.email }}"> {{ site.email }} </a> to 
 
 * * *
 <a href="javascript:history.back()">Back</a>
-
-* * *

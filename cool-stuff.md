@@ -71,11 +71,9 @@ Should have a section with articles or posts wherein one can comment perhaps? Th
 {:/comment}
 
 * * *
-[Back](./)
+<a href="javascript:history.back()">Back</a>
 
 * * *
 ## [](#Reference)Reference
 
 [^1]: And here is the definition fo the footnote.
-
-* * *

@@ -27,8 +27,6 @@ layout: default
 | 16:30 - 17:20	|			|			|Unavailable	|				|			|				|
 
 * * *
-[Back](./)
-
-* * *
+<a href="javascript:history.back()">Back</a>
 
 
