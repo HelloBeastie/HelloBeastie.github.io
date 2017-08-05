@@ -27,6 +27,6 @@ layout: default
 | 16:30 - 17:20	|			|			|Unavailable	|				|			|				|
 
 * * *
-[back](./)
+[back](#navigation)
 
 

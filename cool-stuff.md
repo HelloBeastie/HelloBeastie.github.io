@@ -71,7 +71,7 @@ Should have a section with articles or posts wherein one can comment perhaps? Th
 {:/comment}
 
 * * *
-[back](./)
+[back](#navigation)
 
 * * *
 ## [](#Reference)Reference
