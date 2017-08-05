@@ -29,5 +29,7 @@ layout: default
   - 1 hour lessons for quick learner
 
 * * *
-[back](#navigation)
+[Back](./)
+
+* * *
 
