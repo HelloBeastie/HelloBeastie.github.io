@@ -31,14 +31,14 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 * * *
 ## [](#How Codons...)How Codons...
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/bio.svg)
 
 *Figure showing codons*
 
 * * *
 ## [](#Special angles, Pythogoras and Plane Spaces)Special angles, Pythogoras and Plane Spaces
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/maths.svg)
 
 *Figure showing cartesion plan with polar coordinates*
 
