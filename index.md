@@ -51,9 +51,6 @@ Our services may change based on _your_ feedback. We value **knowledge** and **u
 ## [](#Languages)Languages
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Languages.jpg)
 
-* * *
-[back](#navigation)
-
 {::comment}
 logo with a motto
 {:/comment}

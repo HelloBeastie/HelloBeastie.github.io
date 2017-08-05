@@ -18,4 +18,4 @@ You can email us on <a href="mailto:{{ site.email }}"> {{ site.email }} </a> to 
 {:/comment}
 
 * * *
-[back](#navigation)
+<a href="index.md">Back</a>
