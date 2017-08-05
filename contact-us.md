@@ -18,4 +18,4 @@ You can email us on <a href="mailto:{{ site.email }}"> {{ site.email }} </a> to 
 {:/comment}
 
 * * *
-<a href="index.md">Back</a>
+<a href="https://hellobeastie.github.io/">Back</a>
