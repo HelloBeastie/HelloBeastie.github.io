@@ -4,12 +4,12 @@ layout: default
 
 # [](#About)About
 
-This is a extra lesson service made with the intent of getting rid of the anoying aspects of extra lessons as we have experienced them.
+We offer an extra lesson service made with the intent of getting rid of the annoying aspects of extra lessons as we have experienced them.
 The lessons are given by fully qualified individuals, a rare case in the world of extra lessons, who are intent on making their knowledge
 something the students can call their own, also a rare alternative to the convential parrot style learning. We track performance in order 
 to give accurate data based feedback and reporting. This is important as a diagnostic tool since recovery can only be expected if problems
-can be clearly stated. An effort is made to reduce fees when possible and to faciliate those who require help at times tutors are 
-ordinarily not available. We provide higher quality tuition at lower prices at higher levels of education.
+can clearly be stated. An effort is made to reduce fees when possible and to accommodate those who require help at times tutors are 
+ordinarily not available. We provide higher quality tuition at lower prices.
 
 * * *
 ## [](#Your Tutors)Your Tutors
@@ -24,13 +24,13 @@ Peter Demetriou
 : Research engineer at Eskom Research and Innovation Center
 
 Quinton Avis
-: BSc Microbiology & Intermediate Life Support
-: Currently a third year medicine student at the University of the Witwatersrand
+: BSc Physiology & Intermediate Life Support
+: Currently a third year medicine student at the University of the Witwatersrand and part time paramedic.
 
 * * *
 ## [](#Why Us?)Why Us?
 
-1.  We are more qualified than most tutors and most teachers
+1.  We are qualified in the specific fields we tutor 
 2.  We have work experience in our fields
 3.	We quantifiably track and enhance performance
 4.  We find out where the underlying problems are
