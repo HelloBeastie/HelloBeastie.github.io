@@ -31,14 +31,14 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 * * *
 ## [](#How Codons...)How Codons...
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Bio.svg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/codon.svg)
 
 *Figure showing codons*
 
 * * *
 ## [](#Special angles, Pythogoras and Plane Spaces)Special angles, Pythogoras and Plane Spaces
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Maths.svg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/cartesian.svg)
 
 *Figure showing cartesion plan with polar coordinates*
 
@@ -71,7 +71,7 @@ Should have a section with articles or posts wherein one can comment perhaps? Th
 {:/comment}
 
 * * *
-[back](./)
+<a href="javascript:history.back()">Back</a>
 
 * * *
 ## [](#Reference)Reference

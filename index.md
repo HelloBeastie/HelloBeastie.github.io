@@ -13,19 +13,17 @@ layout: default
 * * *
 # [](#Blogs)Blogs
 
-{% for post in site.posts %}
-
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    
-    {{ post.subtitle }}
-    
-    {{ post.excerpt }}
-    
-    {{ post.date }}
-    
-    {{ post.author }}
-
-{% endfor %}
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} by {{post.author}}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h3>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 * * *
 ## [](#Paragraphs)Paragraphs
@@ -53,9 +51,6 @@ Our services may change based on _your_ feedback. We value **knowledge** and **u
 ## [](#Languages)Languages
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Languages.jpg)
 
-```
-The final element.
-```
 {::comment}
 logo with a motto
 {:/comment}

@@ -29,5 +29,5 @@ layout: default
   - 1 hour lessons for quick learner
 
 * * *
-[back](./)
+<a href="javascript:history.back()">Back</a>
 
