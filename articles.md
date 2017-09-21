@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#Blogs)Blogs
+# [](#Articles)Articles
 
 <ul class="post-list">
   {% for post in site.posts %}
@@ -17,3 +17,4 @@ layout: default
 </ul>
 
 * * *
+<a href="javascript:history.back()">Back</a>
