@@ -8,12 +8,11 @@ tags: How to Post
 excerpt: "To add new posts, simply add a file in the posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter."
 ---
 
-## [](#How Codons...)How Codons...
+## [](#Special angles, Pythogoras and Plane Spaces)Special angles, Pythogoras and Plane Spaces
 
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/codon.svg)
+![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/cartesian.svg)
 
-*Figure showing codons*
-
+*Figure showing cartesion plan with polar coordinates*
 
 * * *
 <a href="javascript:history.back()">Back</a>

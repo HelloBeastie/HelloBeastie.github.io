@@ -8,28 +8,9 @@ layout: default
 * [Services](services)
 * [Available Subjects](available-subjects)
 * [Contact Us](contact-us)
-* [Cool Stuff](cool-stuff)
+* [Articles](articles)
 
-* * *
-# [](#Blogs)Blogs
-
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} by {{post.author}}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h3>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-* * *
-## [](#Paragraphs)Paragraphs
-
-See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times as well as our tutors and subjects we offer.
-Our services may change based on _your_ feedback. We value **knowledge** and **understanding** and it is our goal to make our insights _your own_.
+See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times, our tutors, subjects we offer and interesting articles related to your betterment and understanding. Our services may change based on _your_ feedback. We value **knowledge** and **understanding** and it is our goal to make our insights _your own_. 
 
 * * *
 ## [](#Physics)Physics
