@@ -4,7 +4,7 @@ title: "A look at Stochastic Partial Differential Equations"
 date: 2017-09-20
 author: Peter Demetriou
 tags: SPDE
-excerpt: "Where $V$ in \eqref{eq:Black-Scholes} means something specific in statistics. Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation."
+excerpt: "Using a change of variables the Black-Scholes equation can be reduced the the familar heat equation."
 ---
 
 ## [](#A look at Stochastic Partial Differential Equations)A look at Stochastic Partial Differential Equations

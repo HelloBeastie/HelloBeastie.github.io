@@ -9,11 +9,7 @@ excerpt: "This is how Codons,"
 
 ## [](#How Codons)How Codons
 
-This is how Codons,
-This is how Codons,
-This is how Codons,
-This is how Codons,
-This is how Codons,
+Text is required before the image for the index to skip lines appropriately.
 
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/codon.svg)
 
