@@ -10,6 +10,7 @@ excerpt: "Special angles, Pythogoras and Plane Spaces."
 ## [](#Special angles, Pythogoras and Plane Spaces)Special angles, Pythogoras and Plane Spaces
 
 Text is required before the image for the index to skip lines appropriately.
+Text is required before the image for the index to skip lines appropriately.
 
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/cartesian.svg)
 
