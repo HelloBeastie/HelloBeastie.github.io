@@ -11,11 +11,12 @@ layout: default
       <h3>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h3>
-      {{ post.excerpt }}  
+	  <p>{{ post.excerpt }}</p>
     </li>
-	
   {% endfor %}
 </ul>
+
+
 
 * * *
 <a href="javascript:history.back()">Back</a>
