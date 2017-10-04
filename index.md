@@ -29,8 +29,10 @@ See our other pages in [Navigation](#navigation) for constantly updated informat
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
 
 * * *
+{::comment}
 ## [](#Languages)Languages
 ![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Languages.jpg)
+{:/comment}
 
 {::comment}
 logo with a motto
