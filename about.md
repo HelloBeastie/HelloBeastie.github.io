@@ -4,12 +4,7 @@ layout: default
 
 # [](#About)About
 
-We offer an extra lesson service made with the intent of getting rid of the annoying aspects of extra lessons as we have experienced them.
-The lessons are given by fully qualified individuals, a rare case in the world of extra lessons, who are intent on making their knowledge
-something the students can call their own, also a rare alternative to the convential parrot style learning. We track performance in order 
-to give accurate data based feedback and reporting. This is important as a diagnostic tool since recovery can only be expected if problems
-can clearly be stated. An effort is made to reduce fees when possible and to accommodate those who require help at times tutors are 
-ordinarily not available. We provide higher quality tuition at lower prices.
+We offer an extra lesson service with the intent of optimising your potential. We do not only focus on subject content, but also effective ways to access and learn information. All our tutors are graduates in the fields of Mathematics and Science, and are intent on imparting knowledge to students, a rare alternative to the convential "parrot-style" learning. We track students' performance in order to report accurate data-based feedback. This is an important as improvement can only be expected if problems are clearly stated and identified. An effort is made to reduce fees when possible - we provide high quality tuition at a lower price.
 
 * * *
 ## [](#Your Tutor)Your Tutor

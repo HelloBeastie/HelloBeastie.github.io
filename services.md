@@ -25,7 +25,7 @@ layout: default
 - Consideration of far travelers
   - Get 20$~\%$ off lesson price for each 10$~$km travelled
 - Dynamic lessons
-  - 2 hour lessons to cement concepts learnt
+  - 2 hour lessons to cement concepts learned
   - 1 hour lessons for quick learner
 
 * * *
