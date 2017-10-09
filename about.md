@@ -35,11 +35,13 @@ Quinton Avis
 6.  We try and lower fees where we can
 
 * * *
+{::comment}
 ## [](Testimonials)Testimonials
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
 * * *
+{:/comment}
+
 <a href="javascript:history.back()">Back</a>
