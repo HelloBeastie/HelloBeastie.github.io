@@ -35,5 +35,5 @@ See our other pages in [Navigation](#navigation) for constantly updated informat
 {:/comment}
 
 {::comment}
-logo with a motto
+logo with a motto perhaps?
 {:/comment}
