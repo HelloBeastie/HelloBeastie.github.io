@@ -13,8 +13,6 @@ All costs are per hour ($h^{-1}$)
 | Physics      | R220          | R220            |  R230           |  R250           |  R260           |   R280          |  R310           |
 | Chemistry    | R220          | R220            |  R230           |  R250           |  R260           |   R280          |  R310           |
 
-
-
 * * *
 <a href="javascript:history.back()">Back</a>
 
