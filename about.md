@@ -18,11 +18,12 @@ Riki-Lee Demetriou
 Peter Demetriou
 : BSc Electrical & Information Engineering
 : Research engineer at Eskom Research and Innovation Center
+{:/comment}
 
 Quinton Avis
 : BSc Physiology & Intermediate Life Support
 : Currently a third year medicine student at the University of the Witwatersrand and part time paramedic.
-{:/comment}
+
 
 * * *
 ## [](#Why Us?)Why Us?
