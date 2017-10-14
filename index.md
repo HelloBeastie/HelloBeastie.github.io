@@ -8,7 +8,9 @@ layout: default
 * [Services](services)
 * [Available Subjects](available-subjects)
 * [Contact Us](contact-us)
+{::comment}
 * [Articles](articles)
+{:/comment}
 
 See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times, our tutors, subjects we offer and interesting articles related to your betterment and understanding. Our services may change based on _your_ feedback. We value **knowledge** and **understanding** and it is our goal to make our insights _your own_. 
 
