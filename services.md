@@ -20,7 +20,16 @@ layout: default
   - Help for those who already achieve
   - Extra insight, tips and tricks
 - Budget lessons
-  - Get 20$~\%$ off lesson price for each friend you bring
+  - Get a substantial ammount off the lesson price for each friend you bring for both you and your friend (Example per hour ($h^{-1}$))
+  
+    | Students     | Price per Student |
+    |:------------:|:-----------------:|
+    | 1            | R150             :|
+    | 2            | R110             :|
+    | 3            | R88              :|
+    | 4            | R71              :|
+    | 5            | R59              :|
+    
 - Past paper practice
 - Consideration of far travelers
   - Get 20$~\%$ off lesson price for each 10$~$km travelled

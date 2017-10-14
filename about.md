@@ -14,26 +14,25 @@ Riki-Lee Demetriou
 : Experience in Fungi analysis for fundemental research at University of Pretoria
 : Full time tutor
 
-{::comment}
 Peter Demetriou
 : BSc Electrical & Information Engineering
 : Research engineer at Eskom Research and Innovation Center
-{:/comment}
+: Part time tutor
 
 Quinton Avis
 : BSc Physiology & Intermediate Life Support
 : Currently a third year medicine student at the University of the Witwatersrand and part time paramedic.
+: Part time tutor
 
 
 * * *
 ## [](#Why Us?)Why Us?
 
-1.  We are qualified in the specific fields we tutor 
+1.  We are all qualified in the fields of maths and science
 2.  We have work experience in our fields
-3.	We quantifiably track and enhance performance
-4.  We find out where the underlying problems are
-5.  We are available when other tutors are not
-6.  We try and lower fees where we can
+3.  We find out where the underlying problems are
+4.  We are available when other tutors are not
+5.  We try and lower fees where we can
 
 * * *
 {::comment}
