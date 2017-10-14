@@ -6,12 +6,13 @@ layout: default
 
 All costs are per hour ($h^{-1}$) 
 
-| Subject      | Grade 8       | Grade 9		 |  Grade 10       |  Grade 11       |  Grade 12       |  First Year     |  Second Year    |
-|:------------:|:-------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
-| Biology      | R220          | R220            |  R230           |  R250           |  R260           |   R280          |  R310           |
-| Maths        | R220          | R220            |  R230           |  R250           |  R260           |   R280          |  R310           |
-| Physics      | R220          | R220            |  R230           |  R250           |  R260           |   R280          |  R310           |
-| Chemistry    | R220          | R220            |  R230           |  R250           |  R260           |   R280          |  R310           |
+| Subject      | Grade 8       | Grade 9		 |  Grade 10       |  Grade 11       |  Grade 12       |
+|:------------:|:-------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+| Biology      | R150          | R166            |  R183           |  R202           |  R224           |
+| Maths        | R150          | R166            |  R183           |  R202           |  R224           |
+| Physics      | R150          | R166            |  R183           |  R202           |  R224           |
+| Chemistry    | R150          | R166            |  R183           |  R202           |  R224           |
+
 
 * * *
 <a href="javascript:history.back()">Back</a>
