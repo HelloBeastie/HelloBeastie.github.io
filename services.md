@@ -44,6 +44,7 @@ layout: default
     - Reinforce good learning habits that are vital to future learning at more advanced levels
 {:/comment}
 
+
 * * *
 <a href="javascript:history.back()">Back</a>
 
