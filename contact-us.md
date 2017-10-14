@@ -4,10 +4,12 @@ layout: default
 
 # [](#Contact Us)Contact Us
 
-<a href="https://www.facebook.com/"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/facebook_g.svg"  width="200" height="40"> </a> 
-<a href="https://github.com/HelloBeastie"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/github_g.svg"  width="200" height="40"> </a> 
-<a href="https://www.instagram.com/tikketikke/"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/instagram_g.svg"  width="200" height="40"> </a> 
-<a href="https://twitter.com/rikileehartwell"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/twitter_g.svg"  width="200" height="40"> </a>
+<a href="https://www.facebook.com/Extra-Lessons-1542562155783455/"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/facebook_g.svg"  width="200" height="40"> </a>
+{::comment}
+<a href="https://github.com"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/github_g.svg"  width="200" height="40"> </a> 
+<a href="https://www.instagram.com"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/instagram_g.svg"  width="200" height="40"> </a> 
+<a href="https://twitter.com"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/twitter_g.svg"  width="200" height="40"> </a>
+{:/comment}
 
 * * *
 ## [](#Location)Location

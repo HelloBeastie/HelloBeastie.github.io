@@ -26,6 +26,7 @@ layout: default
 - Sustaining high performance
   - Help for those who already achieve
   - Extra insight, tips and tricks
+  
 - Budget lessons
   - Get a substantial ammount off the lesson price for each friend you bring for both you and your friend (Example of Grade 8 per hour ($h^{-1}$))
   
@@ -36,6 +37,7 @@ layout: default
     | 3            | R88               |
     | 4            | R71               |
     | 5            | R59               |
+    
     
 - Past paper practice
 
