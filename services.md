@@ -12,7 +12,7 @@ layout: default
   - Help for those who already achieve
   - Extra insight, tips and tricks
 - Budget lessons
-  - Get a substantial ammount off the lesson price for each friend you bring for both you and your friend (Example of Grade 8 per hour ($h^{-1}$))
+  - Get a substantial amount off the lesson price for each friend you bring for both you and your friend (Example of Grade 8 per hour ($h^{-1}$))
   
     | Students     | Price per Student |
     |:------------:|:-----------------:|
@@ -39,8 +39,8 @@ layout: default
 {::comment}
 - Analytics
   - Habit Tracking
-  	- Performance monitoring with graphical outputs
-	- Correlation of marks with attitudes and behaviours for insight
+      - Performance monitoring with graphical outputs
+    - Correlation of marks with attitudes and behaviours for insight
     - Reinforce good learning habits that are vital to future learning at more advanced levels
 {:/comment}
 
