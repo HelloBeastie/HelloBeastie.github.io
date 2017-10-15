@@ -14,13 +14,16 @@ layout: default
 - Budget lessons
   - Get a substantial amount off the lesson price for each friend you bring for both you and your friend (Example of Grade 8 per hour ($h^{-1}$))
   
-    | Students     | Price per Student |
-    |:------------:|:-----------------:|
-    | 1            | R150              |
-    | 2            | R110              |
-    | 3            | R88               |
-    | 4            | R71               |
-    | 5            | R59               |
+    |              |                                       Price per Student                                           |
+    |  Students    |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+    |              | Grade 8           | Grade 9           | Grade 10          | Grade 11          | Grade 12          |
+    |:------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+    | 1            | R150              | R166              | R183              | R202              | R224              |
+    | 2            | R110              | R121              | R134              | R148              | R164              |
+    | 3            | R88               | R97               | R107              | R119              | R132              |
+    | 4            | R71               | R79               | R87               | R96               | R107              |
+    | 5            | R59               | R65               | R72               | R79               | R88               |
+
     
 - Past paper practice
 - Dynamic lessons
