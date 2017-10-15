@@ -16,7 +16,7 @@ Do not hesitate to get in contact with us, you do not need to commit to lessons 
 * * *
 ## [](#Location)Location
 
-You can email us on <a href="mailto:{{ site.email }}"> {{ site.email }} </a> to get the necessary information in order to start your extra lessons. You can click the Fillable PDF buttons (School, Homeschool and University) to be filled in and sent back to us before starting lessons ( <a href="https://smallpdf.com/edit-pdf"> "this website" </a> can make PDF's fillable for you ).
+You can email us on <a href="mailto:{{ site.email }}"> {{ site.email }} </a> to get the necessary information in order to start your extra lessons. You can click the "Fillable PDF" buttons to download and fill in forms to send back to us before starting lessons ( <a href="https://smallpdf.com/edit-pdf"> "this website" </a> can make PDF's fillable for you ).
  
 {::comment}
 {:/comment}
