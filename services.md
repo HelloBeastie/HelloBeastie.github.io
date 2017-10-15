@@ -12,11 +12,9 @@ layout: default
   - Help for those who already achieve
   - Extra insight, tips and tricks
 - Budget lessons
-  - Get a substantial amount off the lesson price for each friend you bring for both you and your friend (Example of Grade 8 per hour ($h^{-1}$))
+  - Get a substantial amount off the lesson price for each friend you bring for both you and your friend (price per student per hour ($h^{-1}$))
   
-    |              |                                       Price per Student                                           |
-    |  Students    |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-    |              | Grade 8           | Grade 9           | Grade 10          | Grade 11          | Grade 12          |
+    |  Students    | Grade 8           | Grade 9           | Grade 10          | Grade 11          | Grade 12          |
     |:------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
     | 1            | R150              | R166              | R183              | R202              | R224              |
     | 2            | R110              | R121              | R134              | R148              | R164              |
