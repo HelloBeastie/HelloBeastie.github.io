@@ -17,20 +17,20 @@ See our other pages in [Navigation](#navigation) for constantly updated informat
 
 * * *
 
-## <a href="https://hellobeastie.github.io/about/">[](#Physics)Physics
-<a href="https://hellobeastie.github.io/about/">![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
+## [](#Physics)Physics
+<a href="https://hellobeastie.github.io/available-subjects/">![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
 
 * * *
-## <a href="https://hellobeastie.github.io/about/">[](#Mathematics)Mathematics
-<a href="https://hellobeastie.github.io/about/">![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
+## [](#Mathematics)Mathematics
+<a href="https://hellobeastie.github.io/available-subjects/">![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
 
 * * *
-## <a href="https://hellobeastie.github.io/about/">[](#Chemistry)Chemistry
-<a href="https://hellobeastie.github.io/about/">![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
+## [](#Chemistry)Chemistry
+<a href="https://hellobeastie.github.io/available-subjects/">![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
 
 * * *
-## <a href="https://hellobeastie.github.io/about/">[](#Biology)Biology
-<a href="https://hellobeastie.github.io/about/">![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
+## [](#Biology)Biology
+<a href="https://hellobeastie.github.io/available-subjects/">![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
 
 * * *
 {::comment}
