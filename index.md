@@ -16,20 +16,20 @@ layout: default
 See our other pages in [Navigation](#navigation) for constantly updated information on our available times, our tutors, subjects we offer.
 
 * * *
-## [https://hellobeastie.github.io/available-subjects/](#Physics)Physics
-![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
+## [About](#Physics)Physics
+![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
 
 * * *
-## [https://hellobeastie.github.io/available-subjects/](#Mathematics)Mathematics
-![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
+## [About](#Mathematics)Mathematics
+![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
 
 * * *
-## [https://hellobeastie.github.io/available-subjects/](#Chemistry)Chemistry
-![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
+## [About](#Chemistry)Chemistry
+![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
 
 * * *
-## [https://hellobeastie.github.io/available-subjects/](#Biology)Biology
-![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
+## [About](#Biology)Biology
+![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
 
 * * *
 {::comment}
