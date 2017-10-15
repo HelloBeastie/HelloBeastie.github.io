@@ -13,23 +13,23 @@ layout: default
 * [Articles](articles)
 {:/comment}
 
-See our other pages in [Navigation](#navigation) for constantly updated information (~~with the old information for reference~~) on our available times, our tutors, subjects we offer and interesting articles related to your betterment and understanding. Our services may change based on _your_ feedback. We value **knowledge** and **understanding** and it is our goal to make our insights _your own_. 
+See our other pages in [Navigation](#navigation) for constantly updated information on our available times, our tutors, subjects we offer.
 
 * * *
-## [](#Physics)Physics
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
+## [https://hellobeastie.github.io/available-subjects/](#Physics)Physics
+![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
 
 * * *
-## [](#Mathematics)Mathematics
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
+## [https://hellobeastie.github.io/available-subjects/](#Mathematics)Mathematics
+![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Mathematics.jpg)
 
 * * *
-## [](#Chemistry)Chemistry
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
+## [https://hellobeastie.github.io/available-subjects/](#Chemistry)Chemistry
+![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Molecule.png)
 
 * * *
-## [](#Biology)Biology
-![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
+## [https://hellobeastie.github.io/available-subjects/](#Biology)Biology
+![https://hellobeastie.github.io/available-subjects/](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Microorganism.jpg)
 
 * * *
 {::comment}

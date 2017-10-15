@@ -31,8 +31,7 @@ Quinton Avis
 1.  We are all qualified in the fields of maths and science
 2.  We have work experience in our fields
 3.  We find out where the underlying problems are
-4.  We are available when other tutors are not
-5.  We try and lower fees where we can
+4.  We try and lower fees where we can
 
 * * *
 {::comment}
