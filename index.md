@@ -16,8 +16,9 @@ layout: default
 See our other pages in [Navigation](#navigation) for constantly updated information on our available times, our tutors, subjects we offer.
 
 * * *
+
 ## [About](#Physics)Physics
-![About](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
+<a href="https://hellobeastie.github.io/about/">![](https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/Tesla%20Coil.jpg)
 
 * * *
 ## [About](#Mathematics)Mathematics
