@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#Contact Us)Contact Us
-Do not hesitate to get in contact with us, you do not need to commit to lessons if you just want some information.
+Do not hesitate to contact us for additional information.
 
 ## [](#Facebook)Facebook
 <a href="https://www.facebook.com/Extra-Lessons-1542562155783455/"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/facebook_g.svg"  width="200" height="40"> </a>
