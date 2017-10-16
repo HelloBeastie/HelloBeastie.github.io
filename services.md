@@ -4,15 +4,15 @@ layout: default
 
 # [](#Services)Services:
 
-- Lessons at non-standard times
-  - Assist homeschoolers
-  - Assist in off time during examinations
+- Lessons at off-peak hours:
+  - Homeschooler assistance 
+  - Assistance during exam study breaks 
   - Last minute revision on Saturdays
-- Sustaining high performance
-  - Help for those who already achieve
+- Maintain high performance:
+  - Help for those who already achieve high marks
   - Extra insight, tips and tricks
-- Budget lessons
-  - Get a substantial amount off the lesson price for each friend you bring for both you and your friend (price per student per hour ($h^{-1}$))
+- Budget lessons:
+  - Substantial discount if a friend is brought with, both on your and their fee
   
     |  Students    | Grade 8           | Grade 9           | Grade 10          | Grade 11          | Grade 12          |
     |:------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
@@ -24,9 +24,9 @@ layout: default
 
     
 - Past paper practice
-- Dynamic lessons
-  - 2 hour lessons to cement concepts learned
-  - 1 hour lessons for quick learner
+- Dynamic lessons:
+  - Two hour lessons to cement concepts learned
+  - One hour lessons for quick learners
 
 {::comment}
 - Tuition at tertiary level
