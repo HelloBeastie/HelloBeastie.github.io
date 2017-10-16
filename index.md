@@ -13,7 +13,7 @@ layout: default
 * [Articles](articles)
 {:/comment}
 
-See our other pages in [Navigation](#navigation) for constantly updated information on our available times, our tutors, subjects we offer.
+See our other pages in [Navigation](#navigation) for up to date information.
 
 * * *
 
