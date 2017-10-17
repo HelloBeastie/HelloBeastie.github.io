@@ -20,7 +20,7 @@ Peter Demetriou
 : Part-time tutor
 
 Quinton Avis
-: BSc Physiology & Intermediate Life Support
+: BSc Physiology & Medical Cell Biology
 : Currently a third-year medical student at the University of the Witwatersrand, and a part-time paramedic.
 : Part-time tutor
 
