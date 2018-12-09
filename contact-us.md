@@ -6,11 +6,11 @@ layout: default
 Do not hesitate to contact us for additional information.
 
 ## [](#Facebook)Facebook
-<a href="https://www.facebook.com/Extra-Lessons-1542562155783455/"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/facebook_g.svg"  width="200" height="40"> </a>
+<a href="https://www.facebook.com/Extra-Lessons-1542562155783455/"> <img src="https://cdn.jsdelivr.net/gh/HelloBeastie/HelloBeastie.github.io@master/_includes/facebook_g.svg"  width="200" height="40"> </a>
 {::comment}
-<a href="https://github.com"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/github_g.svg"  width="200" height="40"> </a> 
-<a href="https://www.instagram.com"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/instagram_g.svg"  width="200" height="40"> </a> 
-<a href="https://twitter.com"> <img src="https://cdn.rawgit.com/HelloBeastie/HelloBeastie.github.io/master/_includes/twitter_g.svg"  width="200" height="40"> </a>
+<a href="https://github.com"> <img src="https://cdn.jsdelivr.net/gh/HelloBeastie/HelloBeastie.github.io@master/_includes/github_g.svg"  width="200" height="40"> </a> 
+<a href="https://www.instagram.com"> <img src="https://cdn.jsdelivr.net/gh/HelloBeastie/HelloBeastie.github.io@master/_includes/instagram_g.svg"  width="200" height="40"> </a> 
+<a href="https://twitter.com"> <img src="https://cdn.jsdelivr.net/gh/HelloBeastie/HelloBeastie.github.io@master/_includes/twitter_g.svg"  width="200" height="40"> </a>
 {:/comment}
 
 * * *
